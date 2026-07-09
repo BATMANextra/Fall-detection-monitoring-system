@@ -50,4 +50,4 @@ Future improvements include adding wireless notifications, testing with addition
 
 ## License
 
-This project was developed as an end-of-study (PFE) project. Add an open-source license if you intend to distribute the code publicly.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
